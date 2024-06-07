@@ -1,0 +1,23 @@
+{
+  "name": "escape",
+  "version": "1.0.0",
+  "description": "club project",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inseong2010/escape.git"
+  },
+  "author": "inseong2010",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inseong2010/escape/issues"
+  },
+  "homepage": "https://github.com/inseong2010/escape#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
